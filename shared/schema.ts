@@ -18,7 +18,7 @@ export const ticketSchema = z.object({
   source: z.number(),
   requester_id: z.number(),
   responder_id: z.number().nullable(),
-  company_id: z.number(),
+  company_id: z.number().nullable(),
   group_id: z.number(),
   product_id: z.number(),
   email_config_id: z.number(),
