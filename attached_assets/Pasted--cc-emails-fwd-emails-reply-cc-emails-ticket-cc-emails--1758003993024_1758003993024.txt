@@ -1,0 +1,43 @@
+{
+    "cc_emails": [],
+    "fwd_emails": [],
+    "reply_cc_emails": [],
+    "ticket_cc_emails": [],
+    "ticket_bcc_emails": [],
+    "fr_escalated": false,
+    "spam": false,
+    "email_config_id": 203000036608,
+    "group_id": 203000093656,
+    "priority": 2,
+    "requester_id": 203005242769,
+    "responder_id": null,
+    "source": 1,
+    "company_id": 203000365013,
+    "status": 5,
+    "subject": "New submission from Application Form - Gregory White",
+    "association_type": null,
+    "support_email": null,
+    "to_emails": null,
+    "product_id": 203000031678,
+    "id": 21648,
+    "type": "Open Order",
+    "due_by": "2025-08-15T12:50:37Z",
+    "fr_due_by": "2025-08-14T08:50:37Z",
+    "is_escalated": false,
+    "description": "<div style=\"text-align: center; background-color: #4a5568; color: white; padding: 20px; margin-bottom: 20px\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold\">WLS - Fast, Reliable Apostille &amp; Consular Legalisation</h2></div>\n<div style=\"text-align: center; margin-bottom: 20px\">\n<div style=\"font-weight: bold; color: #e53e3e; font-size: 16px\">WESTMINSTER</div>\n<div style=\"color: #3182ce; font-size: 14px\">LEGALISATION SERVICES LTD</div>\n</div>\n<div style=\"margin-bottom: 25px\">\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Full Name:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">Gregory White</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Company Name (if applicable):</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">GREGORY WHITE NOTARY PUBLIC</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Email:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\"><a href=\"mailto:gwhitenotary@gmail.com\" style=\"color: #3182ce\" rel=\"noreferrer\">gwhitenotary@gmail.com</a></div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Telephone:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">07807239419</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Your Reference:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">NLSLTD</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Your Billing Address:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">42A Crown Road<br>Twickenham<br>Middlesex<br>TW1 3EH<br>United Kingdom</div>\n</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 20px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 15px; font-size: 16px\">Document Type and Quantity</h3>\n<div style=\"background-color: #fff3cd; padding: 8px; border-radius: 3px; color: #856404\">Document details not found in nested form.</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 15px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Country or Consulate you intend to use the document(s):</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">PRO092</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">FCDO Apostille Services</h3>\n<div style=\"margin: 5px 0; padding-left: 15px\">• EXPRESS Apostille (Next-Day Service)</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Consular Services</h3>\n<div style=\"margin: 5px 0; padding-left: 15px\">• STANDARD Consulate Legalisation</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 15px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Delivery or Collection Method:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">Shipping Service (Select courier in the next step)</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Delivery Services</h3>\n<div style=\"margin: 5px 0; padding-left: 15px\">• London - Motorbike Courier (London Same-day)</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Recipient Information</h3>\n<div style=\"margin-bottom: 8px\">\n<strong>Recipient's Full Name:</strong><br><div style=\"margin-top: 3px; padding: 5px; background-color: white; border-radius: 3px\">Gregory White</div>\n</div>\n<div style=\"margin-bottom: 8px\">\n<strong>Recipient's Telephone number:</strong><br><div style=\"margin-top: 3px; padding: 5px; background-color: white; border-radius: 3px\">07807239419</div>\n</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Shipping Address (if different from billing address):</h3>\n<div style=\"background-color: white; padding: 10px; border-radius: 3px\">DIXON WARD SOLICITORS<br>16 The Green<br>Richmond<br>Surrey<br>TW9 1QD<br>United Kingdom</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\"><h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Attached Files:</h3></div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Special Instructions (if applicable):</h3>\n<div style=\"background-color: white; padding: 10px; border-radius: 3px; font-style: italic\">IF ARRIVING AFTER 17:30PM POST THROUGH LETTERBOX</div>\n</div>\n<hr style=\"margin: 20px 0; border: none; border-top: 1px solid #e2e8f0\">\n<div style=\"text-align: center; font-size: 12px; color: #718096\">Entry ID: 24382</div>",
+    "description_text": "WLS - Fast, Reliable Apostille & Consular Legalisation    WESTMINSTER  LEGALISATION SERVICES LTD    Full Name:  Gregory White   Company Name (if applicable):  GREGORY WHITE NOTARY PUBLIC   Email:  gwhitenotary@gmail.com   Telephone:  07807239419   Your Reference:  NLSLTD   Your Billing Address:  42A Crown Road Twickenham Middlesex TW1 3EH United Kingdom     Document Type and Quantity  Document details not found in nested form.   Country or Consulate you intend to use the document(s):  PRO092    FCDO Apostille Services  • EXPRESS Apostille (Next-Day Service)    Consular Services  • STANDARD Consulate Legalisation   Delivery or Collection Method:  Shipping Service (Select courier in the next step)    Delivery Services  • London - Motorbike Courier (London Same-day)    Recipient Information  Recipient's Full Name:  Gregory White   Recipient's Telephone number:  07807239419     Shipping Address (if different from billing address):  DIXON WARD SOLICITORS 16 The Green Richmond Surrey TW9 1QD United Kingdom    Attached Files:    Special Instructions (if applicable):  IF ARRIVING AFTER 17:30PM POST THROUGH LETTERBOX    Entry ID: 24382",
+    "custom_fields": {
+        "cf_customer_reference_number": null,
+        "cf_stel_reference_number": null,
+        "cf_order_tracking": null,
+        "cf_entry_id": "24382"
+    },
+    "created_at": "2025-08-13T12:50:37Z",
+    "updated_at": "2025-08-13T12:50:38Z",
+    "tags": [
+        "Application Form"
+    ],
+    "attachments": [],
+    "source_additional_info": null,
+    "structured_description": null
+}
