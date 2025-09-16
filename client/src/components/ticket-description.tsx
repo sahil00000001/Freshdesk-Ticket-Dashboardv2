@@ -21,7 +21,7 @@ export default function TicketDescription({ ticket }: TicketDescriptionProps) {
         </CardTitle>
       </CardHeader>
       <CardContent className="p-6">
-        <div className="bg-muted/30 rounded-lg p-4 max-h-60 overflow-y-auto">
+        <div className="bg-muted/30 rounded-lg p-6 min-h-96 max-h-screen overflow-y-auto">
           {ticket.description ? (
             <div
               className="prose prose-sm max-w-none text-foreground"
