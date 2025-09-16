@@ -1,0 +1,43 @@
+{
+    "cc_emails": [],
+    "fwd_emails": [],
+    "reply_cc_emails": [],
+    "ticket_cc_emails": [],
+    "ticket_bcc_emails": [],
+    "fr_escalated": false,
+    "spam": false,
+    "email_config_id": 203000036608,
+    "group_id": 203000093656,
+    "priority": 2,
+    "requester_id": 203007122309,
+    "responder_id": 203005242060,
+    "source": 1,
+    "company_id": null,
+    "status": 2,
+    "subject": "New submission from Application Form - Boris Miladinov",
+    "association_type": null,
+    "support_email": null,
+    "to_emails": null,
+    "product_id": 203000031678,
+    "id": 27630,
+    "type": "Open Order",
+    "due_by": "2025-09-17T16:00:00Z",
+    "fr_due_by": "2025-09-16T12:00:00Z",
+    "is_escalated": false,
+    "description": "<div style=\"text-align: center; background-color: #4a5568; color: white; padding: 20px; margin-bottom: 20px\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold\">WLS - Fast, Reliable Apostille &amp; Consular Legalisation</h2></div>\n<div style=\"text-align: center; margin-bottom: 20px\">\n<div style=\"font-weight: bold; color: #e53e3e; font-size: 16px\">WESTMINSTER</div>\n<div style=\"color: #3182ce; font-size: 14px\">LEGALISATION SERVICES LTD</div>\n</div>\n<div style=\"margin-bottom: 25px\">\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Full Name:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">Boris Miladinov</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Email:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\"><a href=\"mailto:bobkataa03@gmail.com\" style=\"color: #3182ce\" rel=\"noreferrer\">bobkataa03@gmail.com</a></div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Telephone:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">+359876157602</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Your Reference:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">2x Pearson Certificates for use in Bulgaria</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 2px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Your Billing Address:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">Pobeda 4<br>Etropole<br>Sofia<br>2180<br>Bulgaria</div>\n</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 20px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 15px; font-size: 16px\">Document Type and Quantity</h3>\n<div style=\"background-color: #fff8e1; padding: 8px; margin-bottom: 8px; border-radius: 3px; border-left: 4px solid #ffa726\">\n<strong>Document Type:</strong><br><div style=\"margin: 5px 0\">Education Certificate</div>\n<strong>Quantity of this document:</strong><br><div style=\"margin: 5px 0\">2</div>\n</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 15px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Country or Consulate you intend to use the document(s):</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">Bulgaria</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Certification Services</h3>\n<div style=\"margin: 5px 0; padding-left: 15px\">• Solicitor Certification</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">FCDO Apostille Services</h3>\n<div style=\"margin: 5px 0; padding-left: 15px\">• EXPRESS Apostille (Next-Day Service)</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 10px; margin-bottom: 15px; border: 1px solid #e2e8f0\">\n<strong style=\"color: #4a5568\">Delivery or Collection Method:</strong><br><div style=\"margin-top: 5px; padding: 5px; background-color: white; border-radius: 3px\">Shipping Service (Select courier in the next step)</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Delivery Services</h3>\n<div style=\"margin: 5px 0; padding-left: 15px\">• International - DHL Express / FedEx</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Recipient Information</h3>\n<div style=\"margin-bottom: 8px\">\n<strong>Recipient's Full Name:</strong><br><div style=\"margin-top: 3px; padding: 5px; background-color: white; border-radius: 3px\">Boris Miladinov</div>\n</div>\n<div style=\"margin-bottom: 8px\">\n<strong>Recipient's Telephone number:</strong><br><div style=\"margin-top: 3px; padding: 5px; background-color: white; border-radius: 3px\">+359876157602</div>\n</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Shipping Address (if different from billing address):</h3>\n<div style=\"background-color: white; padding: 10px; border-radius: 3px\">Pobeda 4<br>Etropole<br>Sofia<br>2180<br>Bulgaria</div>\n</div>\n<div style=\"background-color: #f7fafc; padding: 15px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 5px\">\n<h3 style=\"color: #4a5568; margin-top: 0; margin-bottom: 10px; font-size: 16px\">Attached Files:</h3>\n<div style=\"margin: 5px 0; padding-left: 15px\">• <a href=\"https://wlegalisation.co.uk/wp-content/uploads/gravity_forms/4-7029cf48a41d4e56aa2ba88946f05d97/2025/09/Diploma.pdf\" style=\"color: #3182ce\" target=\"_blank\" rel=\"noreferrer\">Diploma.pdf</a>\n</div>\n</div>\n<hr style=\"margin: 20px 0; border: none; border-top: 1px solid #e2e8f0\">\n<div style=\"text-align: center; font-size: 12px; color: #718096\">Entry ID: 27471</div>",
+    "description_text": "WLS - Fast, Reliable Apostille & Consular Legalisation    WESTMINSTER  LEGALISATION SERVICES LTD    Full Name:  Boris Miladinov   Email:  bobkataa03@gmail.com   Telephone:  +359876157602   Your Reference:  2x Pearson Certificates for use in Bulgaria   Your Billing Address:  Pobeda 4 Etropole Sofia 2180 Bulgaria     Document Type and Quantity  Document Type:  Education Certificate Quantity of this document:  2    Country or Consulate you intend to use the document(s):  Bulgaria    Certification Services  • Solicitor Certification    FCDO Apostille Services  • EXPRESS Apostille (Next-Day Service)   Delivery or Collection Method:  Shipping Service (Select courier in the next step)    Delivery Services  • International - DHL Express / FedEx    Recipient Information  Recipient's Full Name:  Boris Miladinov   Recipient's Telephone number:  +359876157602     Shipping Address (if different from billing address):  Pobeda 4 Etropole Sofia 2180 Bulgaria    Attached Files:  • Diploma.pdf    Entry ID: 27471",
+    "custom_fields": {
+        "cf_customer_reference_number": null,
+        "cf_stel_reference_number": null,
+        "cf_order_tracking": null,
+        "cf_entry_id": "27471"
+    },
+    "created_at": "2025-09-16T07:32:29Z",
+    "updated_at": "2025-09-16T09:43:18Z",
+    "tags": [
+        "Application Form"
+    ],
+    "attachments": [],
+    "source_additional_info": null,
+    "structured_description": null
+}
